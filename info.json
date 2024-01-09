@@ -1,5 +1,160 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "RAhgz9aLukk",
+            "name": "Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ] [RAhgz9aLukk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ] [RAhgz9aLukk].mp4",
+            "size": 56.700993,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Jean Michel Jarre - Equinoxe Full Album (MFSL) [HQ] [RAhgz9aLukk].mp4"
+        },
+        {
+            "id": "lUxaibUSWSc",
+            "name": "F.Danzi-Bassoon Concerto in F major. [lUxaibUSWSc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/F.Danzi-Bassoon Concerto in F major. [lUxaibUSWSc].mp4",
+            "size": 24.224109,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/F.Danzi-Bassoon Concerto in F major. [lUxaibUSWSc].mp4"
+        },
+        {
+            "id": "lOrc-PLeUFI",
+            "name": "R. Chap\u00ed\uff1a Fantas\u00eda Morisca (1873, arr. p\u29f8orquesta 1879) [lOrc-PLeUFI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/R. Chap\u00ed\uff1a Fantas\u00eda Morisca (1873, arr. p\u29f8orquesta 1879) [lOrc-PLeUFI].mp4",
+            "size": 35.388387,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/R. Chap\u00ed\uff1a Fantas\u00eda Morisca (1873, arr. p\u29f8orquesta 1879) [lOrc-PLeUFI].mp4"
+        },
+        {
+            "id": "GP3Gho5qe4Y",
+            "name": "Carmen Amaya y su troupe por Bulerias - 1961 [GP3Gho5qe4Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Carmen Amaya y su troupe por Bulerias - 1961 [GP3Gho5qe4Y].mp4",
+            "size": 19.57146,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Carmen Amaya y su troupe por Bulerias - 1961 [GP3Gho5qe4Y].mp4"
+        },
+        {
+            "id": "1oc0sp6OCbk",
+            "name": "Therese Racket - Survie (1986) Coldwave, Post-Punk - France [1oc0sp6OCbk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Therese Racket - Survie (1986) Coldwave, Post-Punk - France [1oc0sp6OCbk].mp4",
+            "size": 79.739749,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Therese Racket - Survie (1986) Coldwave, Post-Punk - France [1oc0sp6OCbk].mp4"
+        },
+        {
+            "id": "o82d9T4D-8I",
+            "name": "Karen Carpenter Drum solo 1968 Dancing in the street HD [o82d9T4D-8I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Karen Carpenter Drum solo 1968 Dancing in the street HD [o82d9T4D-8I].mp4",
+            "size": 19.591099,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Karen Carpenter Drum solo 1968 Dancing in the street HD [o82d9T4D-8I].mp4"
+        },
+        {
+            "id": "xmJxVgovI0U",
+            "name": "Rick - House On Fire (7\uff02 Version) (1986) [xmJxVgovI0U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Rick - House On Fire (7\uff02 Version) (1986) [xmJxVgovI0U].mp4",
+            "size": 53.405134999999994,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Rick - House On Fire (7\uff02 Version) (1986) [xmJxVgovI0U].mp4"
+        },
+        {
+            "id": "swW6itOkHOE",
+            "name": "Kurtis Blow - Side 1 (Full) [swW6itOkHOE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Kurtis Blow - Side 1 (Full) [swW6itOkHOE].mp4",
+            "size": 41.491564,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Kurtis Blow - Side 1 (Full) [swW6itOkHOE].mp4"
+        },
+        {
+            "id": "1p_BvaHsgGg",
+            "name": "Men Without Hats - The Safety Dance (Official HD Video) [1p_BvaHsgGg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Men Without Hats - The Safety Dance (Official HD Video) [1p_BvaHsgGg].mp4",
+            "size": 25.864189,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Men Without Hats - The Safety Dance (Official HD Video) [1p_BvaHsgGg].mp4"
+        },
+        {
+            "id": "63frKrTn_SI",
+            "name": "Federico Chueca\uff1a \uff02El dos de mayo\uff02, pasodoble (1908) [63frKrTn_SI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Federico Chueca\uff1a \uff02El dos de mayo\uff02, pasodoble (1908) [63frKrTn_SI].mp4",
+            "size": 3.304166,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Federico Chueca\uff1a \uff02El dos de mayo\uff02, pasodoble (1908) [63frKrTn_SI].mp4"
+        },
+        {
+            "id": "kSE15tLBdso",
+            "name": "Luigi Boccherini\uff1a Minuetto (classical) [kSE15tLBdso].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Luigi Boccherini\uff1a Minuetto (classical) [kSE15tLBdso].mp4",
+            "size": 3.939558,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Luigi Boccherini\uff1a Minuetto (classical) [kSE15tLBdso].mp4"
+        },
+        {
+            "id": "tTVx2fTEbRY",
+            "name": "Ikoyi Mentality Versus Mushin Mentality [tTVx2fTEbRY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Ikoyi Mentality Versus Mushin Mentality [tTVx2fTEbRY].mp4",
+            "size": 52.191976,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Ikoyi Mentality Versus Mushin Mentality [tTVx2fTEbRY].mp4"
+        },
+        {
+            "id": "HzfWfYBEbrU",
+            "name": "Augusta Holm\u00e8s - Androm\u00e8de, symphonic poem (1883) [HzfWfYBEbrU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Augusta Holm\u00e8s - Androm\u00e8de, symphonic poem (1883) [HzfWfYBEbrU].mp4",
+            "size": 21.441095999999998,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Augusta Holm\u00e8s - Androm\u00e8de, symphonic poem (1883) [HzfWfYBEbrU].mp4"
+        },
+        {
+            "id": "zLASJBQqnqw",
+            "name": "El Toro Relajo (Felipe Bermejo). Interpreta Selena Quintanilla, 1971-1995 [zLASJBQqnqw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/El Toro Relajo (Felipe Bermejo). Interpreta Selena Quintanilla, 1971-1995 [zLASJBQqnqw].mp4",
+            "size": 5.859725999999999,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/El Toro Relajo (Felipe Bermejo). Interpreta Selena Quintanilla, 1971-1995 [zLASJBQqnqw].mp4"
+        },
+        {
+            "id": "5MaBlqwOraQ",
+            "name": "\u00c9douard Lalo - Symphonie Espagnole Op. 21 (1874) [5MaBlqwOraQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/\u00c9douard Lalo - Symphonie Espagnole Op. 21 (1874) [5MaBlqwOraQ].mp4",
+            "size": 72.37323599999999,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/\u00c9douard Lalo - Symphonie Espagnole Op. 21 (1874) [5MaBlqwOraQ].mp4"
+        },
+        {
+            "id": "-t_gTKvScxo",
+            "name": "Edward MacDowell - Piano Concerto No. 2, Op. 23 (1885) {Roberto Szidon} [-t_gTKvScxo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Edward MacDowell - Piano Concerto No. 2, Op. 23 (1885) {Roberto Szidon} [-t_gTKvScxo].mp4",
+            "size": 90.262811,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Edward MacDowell - Piano Concerto No. 2, Op. 23 (1885) {Roberto Szidon} [-t_gTKvScxo].mp4"
+        },
+        {
+            "id": "KkXMngiow7I",
+            "name": "Czerny - Divertissement de Concert, Op. 204 - Michael Ponti [KkXMngiow7I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Czerny - Divertissement de Concert, Op. 204 - Michael Ponti [KkXMngiow7I].mp4",
+            "size": 32.974292999999996,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Czerny - Divertissement de Concert, Op. 204 - Michael Ponti [KkXMngiow7I].mp4"
+        },
+        {
+            "id": "vnQTRKdRwiU",
+            "name": "Pink Floyd - Secrets - Full bootleg album [vnQTRKdRwiU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Pink Floyd - Secrets - Full bootleg album [vnQTRKdRwiU].mp4",
+            "size": 80.35939499999999,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Pink Floyd - Secrets - Full bootleg album [vnQTRKdRwiU].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Ryan Paris - Dolce Vita (Official Video)-EXmABxvHTG4 - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Ryan Paris - Dolce Vita (Official Video)-EXmABxvHTG4 - copy (1).mp4",
+            "size": 15.395195,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Ryan Paris - Dolce Vita (Official Video)-EXmABxvHTG4 - copy (1).mp4"
+        },
+        {
+            "id": "dGID6mHHgUI",
+            "name": "Jangology (full Album) [dGID6mHHgUI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Jangology (full Album) [dGID6mHHgUI].mp4",
+            "size": 37.024589,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Jangology (full Album) [dGID6mHHgUI].mp4"
+        },
+        {
+            "id": "2XWt9_IBr3A",
+            "name": "Peter Tosh - Mama Africa (Full Album) [2XWt9_IBr3A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Peter Tosh - Mama Africa (Full Album) [2XWt9_IBr3A].mp4",
+            "size": 62.880081,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Peter Tosh - Mama Africa (Full Album) [2XWt9_IBr3A].mp4"
+        },
+        {
+            "id": "fqhqMbXEhdc",
+            "name": "Visconti     Odiame   - Quema esas cartas [fqhqMbXEhdc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s5/videos/Visconti     Odiame   - Quema esas cartas [fqhqMbXEhdc].mp4",
+            "size": 5.922688,
+            "url": "https://github.com/circuitalmynds/music_s5/raw/main/videos/Visconti     Odiame   - Quema esas cartas [fqhqMbXEhdc].mp4"
+        }
+    ],
+    "total_size": 839.9054949999999
 }
